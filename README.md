@@ -54,7 +54,7 @@ It contains:
 | Fraud rate | ~1.74% |
 | Nature | **Fully synthetic — no real data** |
 
-**Dataset link:** `DATASET_LINK_TO_BE_ADDED`(https://drive.google.com/drive/folders/1tnbx8wRXy88Obc_aSfhBxM4uQ1GGjN2R?usp=drive_link)
+**Dataset link:** (https://drive.google.com/drive/folders/1tnbx8wRXy88Obc_aSfhBxM4uQ1GGjN2R?usp=drive_link)
 
 ### Important Limitations
 
